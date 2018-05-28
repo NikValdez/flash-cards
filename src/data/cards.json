@@ -1,0 +1,104 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "eng": "to be",
+      "esp": "是"
+    },
+    {
+      "id": 2,
+      "eng": "not",
+      "esp": "不"
+    },
+    {
+      "id": 3,
+      "eng": "person",
+      "esp": "人"
+    },
+    {
+      "id": 4,
+      "eng": "we",
+      "esp": "我们"
+    },
+    {
+      "id": 5,
+      "eng": "at",
+      "esp": "在"
+    },
+    {
+      "id": 6,
+      "eng": "country",
+      "esp": "国"
+    },
+    {
+      "id": 7,
+      "eng": "middle",
+      "esp": "中"
+    },
+    {
+      "id": 8,
+      "eng": "have",
+      "esp": "有"
+    },
+    {
+      "id": 9,
+      "eng": "that",
+      "esp": "那"
+    },
+    {
+      "id": 10,
+      "eng": "to go",
+      "esp": "去"
+    },
+    {
+      "id": 11,
+      "eng": "to study, to learn",
+      "esp": "学"
+    },
+    {
+      "id": 12,
+      "eng": "to use",
+      "esp": "用"
+    },
+    {
+      "id": 13,
+      "eng": "face, surface",
+      "esp": "面"
+    },
+    {
+      "id": 14,
+      "eng": "work",
+      "esp": "工"
+    },
+    {
+      "id": 15,
+      "eng": "speech",
+      "esp": "话"
+    },
+    {
+      "id": 16,
+      "eng": "very, quite",
+      "esp": "很"
+    },
+    {
+      "id": 17,
+      "eng": "good",
+      "esp": "好"
+    },
+    {
+      "id": 18,
+      "eng": "bright, clear",
+      "esp": "明"
+    },
+    {
+      "id": 19,
+      "eng": "year",
+      "esp": "年"
+    },
+    {
+      "id": 20,
+      "eng": "king",
+      "esp": "王"
+    }
+  ]
+}
